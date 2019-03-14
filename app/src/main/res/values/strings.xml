@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Date Calculator</string>
+    <string name="birthdate_question">Do you know the date of birth?</string>
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+    <string name="enter_birthdate">Please enter the birthdate:</string>
+    <string name="birth_date_chosen">Enter</string>
+    <string name="deathdate_question">Do you know the date of death?</string>
+    <string name="death_date_yes_button">YES</string>
+    <string name="death_date_no_button">NO</string>
+    <string name="enter_deathdate">Please enter the death date:</string>
+    <string name="death_date_chosen">MM/DD/YYYY</string>
+    <string name="after_enter_death_date">ENTER</string>
+    <string name="how_long_lived_q">Do you know how long they lived?</string>
+    <string name="how_long_lived_yes">YES</string>
+    <string name="how_long_lived_no">NO</string>
+    <string name="live_for_question">How long did they live for?</string>
+    <string name="lived_for_enter_button">ENTER</string>
+    <string name="enter_num_years_lived">Number of years</string>
+    <string name="enter_num_days_lived">Number of days</string>
+    <string name="enter_long_lived_fields">ENTER</string>
+    <string name="birth_date_entered_new_date_field">MM/DD/YYYY</string>
+    <string name="end_message">Message</string>
+    <string name="enter_num_months_lived">Number of months (1-12)</string>
+</resources>
